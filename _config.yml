@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Arun Kumar Aditya"
 description              : &description "personal description"
 url                      : https://proarun.github.io/me/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : " https://proarun.github.io/me" # the subpath of your site, e.g. "/blog"
 repository               : "https://proarun.github.io/me/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
